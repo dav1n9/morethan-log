@@ -12,8 +12,8 @@ const CONFIG = {
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `Update`,
+      href: "https://github.com/dav1n9",
     },
   ],
   // blog setting (required)
