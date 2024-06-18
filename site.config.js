@@ -26,7 +26,7 @@ const CONFIG = {
   link: "https://morethan-log-khaki-six.vercel.app",
   since: 2023, // If leave this empty, current year will be used.
   lang: "ko-KR", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
-  ogImageGenerateURL: "/avatar.svg", //"https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: "https://notion-avatar.vercel.app/api/img/eyJmYWNlIjoxLCJub3NlIjo3LCJtb3V0aCI6NywiZXllcyI6MywiZXllYnJvd3MiOjgsImdsYXNzZXMiOjcsImhhaXIiOjI3LCJhY2Nlc3NvcmllcyI6MCwiZGV0YWlscyI6MCwiYmVhcmQiOjAsImZsaXAiOjAsImNvbG9yIjoicmdiYSgyNTUsIDAsIDAsIDApIiwic2hhcGUiOiJub25lIn0=", //"https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
   // notion configuration (required)
   notionConfig: {
